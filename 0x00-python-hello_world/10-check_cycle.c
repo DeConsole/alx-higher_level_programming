@@ -19,5 +19,6 @@ int check_cycle(listint_t *list)
 		return (1);
 	current = current->next;
 }
+
 	return (0);
 }
